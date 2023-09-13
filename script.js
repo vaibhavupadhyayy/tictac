@@ -16,16 +16,20 @@ cells.forEach((cell, index) => {
             // check if the game is over after the current move
             if (isGameOver()) {
                 messageElement.textContent = currentPlayer + " wins!";
+                alert(currentPlayer + " wins!");
                
                 cells.forEach((cell) => cell.removeEventListener("click", handleCellClick));
             } else if (!board.includes("")) {
                 // update the message if game is a draw
                 messageElement.textContent = "It's a draw";
+                alert("It's a draw")
                
             } else {
                 currentPlayer = currentPlayer === "X" ? "O" : "X";
                 messageElement.textContent = currentPlayer + "'s turn";
             }
+
+            
         }
     });
 });

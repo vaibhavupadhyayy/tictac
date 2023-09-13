@@ -9,9 +9,8 @@ This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The g
 - [Getting Started](#getting-started)
 - [Game Rules](#game-rules)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Game Rules

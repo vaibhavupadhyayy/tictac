@@ -13,19 +13,6 @@ This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The g
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
-
-To get a copy of this Tic-Tac-Toe game up and running on your local machine, follow these steps:
-
-1. **Clone the Repository**: First, clone this GitHub repository to your local machine using the following command:
-
-   ```shell
-   git clone https://github.com/your-username/tic-tac-toe.git
-   ```
-
-2. **Open the Game**: Open the `index.html` file in your web browser.
-
-That's it! You should now see the Tic-Tac-Toe game interface and be ready to play.
 
 ## Game Rules
 
@@ -56,8 +43,5 @@ That's it! You should now see the Tic-Tac-Toe game interface and be ready to pla
 
 If you'd like to contribute to the development of this Tic-Tac-Toe game, feel free to fork the repository and submit pull requests with your improvements or bug fixes. Contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Enjoy playing Tic-Tac-Toe! If you have any questions or suggestions, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+Enjoy playing Tic-Tac-Toe! If you have any questions or suggestions, please feel free to contact the project maintainer at [vaibhavupadhyay306@gmail.com](mailto:vaibhavupadhyay306@gmail.com).

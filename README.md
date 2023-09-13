@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](tic_tac_toe.png)
+![Tic-Tac-Toe](Image.png)
 
 This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The game allows two players to take turns and try to get three of their symbols (X or O) in a row, column, or diagonal to win the game. If all cells are filled and no player has won, the game ends in a draw.
 
@@ -37,7 +37,7 @@ This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The g
 
 ## Screenshots
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Image.png)
 
 ## Contributing
 

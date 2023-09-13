@@ -35,9 +35,6 @@ This is a simple Tic-Tac-Toe game created using HTML, CSS, and JavaScript. The g
 
 6. To start a new game, simply refresh the web page.
 
-## Screenshots
-
-![Gameplay Screenshot](Image.png)
 
 ## Contributing
 
